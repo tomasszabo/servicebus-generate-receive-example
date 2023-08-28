@@ -1,1 +1,1 @@
-# Azure Service Generate-REceive Example
+# Azure ServiceBus Generate-Receive Example
