@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "generate"
+		},
+		{
+			"path": "receive"
+		},
+		{
+			"path": "bicep"
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen",
+		"dotnet.defaultSolution": "generate/generate.sln"
+	}
+}

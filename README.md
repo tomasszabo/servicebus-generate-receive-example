@@ -1,0 +1,1 @@
+# Azure Service Generate-REceive Example
